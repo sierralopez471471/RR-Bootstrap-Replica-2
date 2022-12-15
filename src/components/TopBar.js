@@ -1,7 +1,6 @@
 import { Navbar } from "react-bootstrap"
 import { Nav } from "react-bootstrap"
 import { Button } from "react-bootstrap"
-import '../App.css'
 
 export default function TopBar() {
     return (
